@@ -2,8 +2,6 @@
 
 Full-stack software engineer building reliable, maintainable web applications and services. I focus on shipping practical solutions, writing clean, testable code, and operating systems in production.
 
-Resume: Vishal_resume_final-15.pdf
-
 ## Tech highlights
 - Languages: JavaScript / TypeScript, Python, Java
 - Frontend: React, HTML, CSS
